@@ -8,10 +8,10 @@
 
 The agency side has been designed for two years. The requester side has not been designed at all. FOIA Warfare is the requester-side architecture.
 
-[![Live](https://img.shields.io/badge/live-foiawarfare.com-00C2FF?style=for-the-badge&labelColor=111111)](https://foiawarfare.com)
-[![Wire](https://img.shields.io/badge/the%20wire-records%20intelligence-F59E0B?style=for-the-badge&labelColor=111111)](https://foiawarfare.com/wire)
-[![Coverage](https://img.shields.io/badge/coverage-Federal%20%2B%20State-00C2FF?style=for-the-badge&labelColor=111111)](https://foiawarfare.com)
-[![Language](https://img.shields.io/badge/EN%20%2B%20ES-usted%20register-00C2FF?style=for-the-badge&labelColor=111111)](https://foiawarfare.com)
+[![Live](https://img.shields.io/badge/live-foiawarfare.com-00C2FF?style=flat-square&labelColor=111111)](https://foiawarfare.com)
+[![Wire](https://img.shields.io/badge/the%20wire-records%20intelligence-F59E0B?style=flat-square&labelColor=111111)](https://foiawarfare.com/wire)
+[![Coverage](https://img.shields.io/badge/coverage-Federal%20%2B%20State-00C2FF?style=flat-square&labelColor=111111)](https://foiawarfare.com)
+[![Language](https://img.shields.io/badge/EN%20%2B%20ES-usted%20register-00C2FF?style=flat-square&labelColor=111111)](https://foiawarfare.com)
 
 </div>
 
